@@ -1,0 +1,55 @@
+﻿
+
+@font-face {
+    font-family: SendFlowers;
+    src: url(SendFlowers-Regular.ttf);
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family:SendFlowers;
+    padding-bottom:50px;
+}
+
+.FirstName {
+    text-align:center;
+    margin-top: 30px;
+    font-size:larger;
+    padding-bottom:35px;
+
+
+}
+
+.LastName {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:larger;
+    padding-bottom:35px;
+}
+
+.Email {
+    text-align:center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size:larger;
+    padding-bottom:35px;
+}
+
+.Submit {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-top:35px;
+    
+}
+
+.Width {
+    width: 90%;
+}
+
+
+
+
